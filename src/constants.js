@@ -43,10 +43,10 @@ import skdLogo from './assets/education_logo/skdcollege.avif';
 import asiLogo from './assets/education_logo/asicollege.jpeg';
 
 // Project Section Logo's
-import Fitness from './assets/work_logo/Fitness.png';
-import Portfolio from './assets/work_logo/Portfolio.png';
-import Bookose from './assets/work_logo/Bookose.png';
-import Aicode from './assets/work_logo/Aicode.png';
+import fitnesslogo from './assets/work_logo/fitness.png';
+import portfoliologo from './assets/work_logo/portfolio.png';
+import bookoselogo from './assets/work_logo/bookose.png';
+import aicodelogo from './assets/work_logo/aicode.png';
 
 
 export const SkillsInfo = [
@@ -171,7 +171,7 @@ export const SkillsInfo = [
       title: "Fitness Tracker Web App",
       description:
         "Fit Tracker is a powerful and user-friendly fitness tracking application built with React.js. It helps users monitor and manage their fitness journey by providing detailed insights into workouts, progress, and goals. With a clean and intuitive interface, FitTracker ensures a seamless experience for tracking activities, staying consistent, and achieving health milestones—making it an essential tool for fitness enthusiasts and trainers alike.",
-      image: Fitness,
+      image: fitnesslogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github: "https://github.com/D1665/fittracker/tree/main",
       
@@ -181,7 +181,7 @@ export const SkillsInfo = [
       title: "Ai Powered Code Reviewer",
       description:
         "AI-Powered Code Reviewer is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) integrated with the Google Gemini Developer API. The platform analyzes source code, detects errors, and provides AI-driven suggestions for optimization and improvements. Designed for developers, it helps in writing cleaner, more efficient, and error-free code.A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-      image: Aicode,
+      image: aicodelogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript","gemini API"],
       github: "https://github.com/D1665/Ai-powered-code-reviewer/tree/main",
       
@@ -191,7 +191,7 @@ export const SkillsInfo = [
       title: "Personal Portfolio Website",
       description:
         "A React-based web application that provides movie recommendatioA sleek and responsive personal portfolio designed using React.js, Tailwind CSS, and modern web design practices. It showcases projects, skills, and achievements in an interactive and professional way. The portfolio acts as a digital resume, enabling recruiters and collaborators to explore your journey as a developer.ns based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-      image: Portfolio,
+      image: portfoliologo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/D1665/dinesh-portfolio",
      
@@ -201,7 +201,7 @@ export const SkillsInfo = [
       title: "Bookify – Used Book Marketplace",
       description:
         "An efficient and customizable NPM package for validating Bookify is a group project developed using the MERN stack, providing a marketplace for users to buy and sell second-hand books. It simplifies book exchanges by connecting buyers and sellers directly through a user-friendly platform.email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
-      image: Bookose,
+      image: bookoselogo,
       tags: ["React JS", "Node.js", "NPM", "Validation"],
       github: "https://github.com/D1665/Bookefy-Used-Book-Marketplace-/tree/master",
       
