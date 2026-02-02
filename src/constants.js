@@ -170,10 +170,10 @@ export const SkillsInfo = [
       id: 0,
       title: "Fitness Tracker Web App",
       description:
-        "Fit Tracker is a powerful and user-friendly fitness tracking application built with React.js. It helps users monitor and manage their fitness journey by providing detailed insights into workouts, progress, and goals. With a clean and intuitive interface, FitTracker ensures a seamless experience for tracking activities, staying consistent, and achieving health milestones—making it an essential tool for fitness enthusiasts and trainers alike.",
+        "FitXhub is a powerful and user-friendly fitness tracking application built with React.js. It helps users monitor and manage their fitness journey by providing detailed insights into workouts, progress, and goals. With a clean and intuitive interface, FitTracker ensures a seamless experience for tracking activities, staying consistent, and achieving health milestones—making it an essential tool for fitness enthusiasts and trainers alike.",
       image: fitnesslogo,
-      tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/D1665/fittracker/tree/main",
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "API","Node.js", "Express","MongoDB"],
+      github: "https://github.com/D1665/FitXHub",
       
     },
     {
@@ -182,8 +182,8 @@ export const SkillsInfo = [
       description:
         "AI-Powered Code Reviewer is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) integrated with the Google Gemini Developer API. The platform analyzes source code, detects errors, and provides AI-driven suggestions for optimization and improvements. Designed for developers, it helps in writing cleaner, more efficient, and error-free code.A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       image: aicodelogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript","gemini API"],
-      github: "https://github.com/D1665/Ai-powered-code-reviewer/tree/main",
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript","OpenAi API"],
+      github: "https://github.com/D1665/Ai-Powered-Code-Reviewer-",
       
     },
     {
@@ -202,7 +202,7 @@ export const SkillsInfo = [
       description:
         "An efficient and customizable NPM package for validating Bookify is a group project developed using the MERN stack, providing a marketplace for users to buy and sell second-hand books. It simplifies book exchanges by connecting buyers and sellers directly through a user-friendly platform.email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
       image: bookoselogo,
-      tags: ["React JS", "Node.js", "NPM", "Validation"],
+      tags: ["React JS", "html", "css", "JavaScript", "Node.js", "Express", "MongoDB"],
       github: "https://github.com/D1665/Bookefy-Used-Book-Marketplace-/tree/master",
       
     },
