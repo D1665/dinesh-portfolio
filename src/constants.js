@@ -193,7 +193,7 @@ export const SkillsInfo = [
         "A React-based web application that provides movie recommendatioA sleek and responsive personal portfolio designed using React.js, Tailwind CSS, and modern web design practices. It showcases projects, skills, and achievements in an interactive and professional way. The portfolio acts as a digital resume, enabling recruiters and collaborators to explore your journey as a developer.ns based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
       image: portfoliologo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/D1665/dinesh-portfolio",
+      github: "https://github.com/D1665/dinesh-portfolio/tree/main",
      
     },
     {
